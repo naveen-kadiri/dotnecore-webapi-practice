@@ -1,2 +1,7 @@
 /bin
 /obj
+dotnetcore-API/bin
+dotnetcore-API/obj
+.vscode/launch.json
+.gitignore
+dotnetcore-API/dotnetcore-API.http
